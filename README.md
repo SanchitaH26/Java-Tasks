@@ -18,6 +18,6 @@ This repository contains Java programming tasks organized by difficulty:
 
 ## Notes
 
-Each task has its own README.md explaining the problem and solution.
+Each level has its own README.md explaining the problem and solution.
 
 Start from Beginner to Advanced.
