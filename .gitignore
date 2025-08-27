@@ -1,0 +1,17 @@
+# Java artifacts
+*.class
+*.jar
+ECHO is on.
+# Eclipse
+.classpath
+.project
+.settings/
+bin/
+target/
+ECHO is on.
+# VSCode
+.vscode/
+ECHO is on.
+# OS
+.DS_Store
+Thumbs.db
