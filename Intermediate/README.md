@@ -16,7 +16,7 @@ java Calculator
 ```
 ### **Features**
 
-Account Creation
+1. Account Creation
 
 Create a new bank account with Owner Name, Initial Balance, Overdraft Limit, and Annual Interest Rate.
 
@@ -24,17 +24,17 @@ Auto-generates unique account IDs (e.g., ACC-1).
 
 Validates numeric input for balances, overdrafts, and interest rates.
 
-View Balances
+2. View Balances
 
 Display all accounts with Account ID, Owner Name, Balance, Overdraft Limit, and Interest Rate.
 
-Deposit Money
+3. Deposit Money
 
 Deposit an amount to a selected account.
 
 Updates balance and records transaction history.
 
-Withdraw Money
+4. Withdraw Money
 
 Withdraw money from a selected account.
 
@@ -44,7 +44,7 @@ Prevents overdrawing beyond allowed limits.
 
 Records transaction history.
 
-Transfer Money
+5. Transfer Money
 
 Transfer funds between two accounts.
 
@@ -52,7 +52,7 @@ Checks minimum balance constraints on source account.
 
 Records transaction in both accounts’ histories.
 
-Apply Interest
+6. Apply Interest
 
 Apply monthly interest to an account based on an annual interest rate.
 
@@ -64,7 +64,7 @@ Transaction History
 
 Maintain a detailed history of deposits, withdrawals, and transfers.
 
-View transactions for any account.
+7. View transactions for any account.
 
 User-Friendly Menu
 
@@ -78,7 +78,7 @@ Validates inputs to prevent incorrect data entry.
 
 Prevents withdrawals or transfers that violate minimum balance requirements.
 
-Unit Testing Ready
+8. Unit Testing Ready
 
 Backend logic designed to allow unit testing of deposit, withdraw, transfer, and interest calculation functions.
 
