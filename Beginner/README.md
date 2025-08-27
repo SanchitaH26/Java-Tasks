@@ -22,13 +22,13 @@ Multi-Functional Calculator
 
 Supports three main types:
 
-Arithmetic Calculator
+#### Arithmetic Calculator
 
-Scientific Calculator
+#### Scientific Calculator
 
-Unit Conversion Tool
+#### Unit Conversion Tool
 
-Arithmetic Operations
+### Arithmetic Operations
 
 Addition, Subtraction, Multiplication, Division
 
@@ -36,17 +36,20 @@ Handles division by zero errors gracefully
 
 Validates numeric input
 
-Scientific Operations
+### Scientific Operations
 
 Square root, Cube root, Power
 
-Trigonometric functions: Sine, Cosine, Tangent
+### Trigonometric functions: 
+Sine, Cosine, Tangent
 
-Inverse trigonometric functions: arcsin, arccos, arctan
+### Inverse trigonometric functions:
+arcsin, arccos, arctan
 
-Logarithmic operations: Natural log, Base-10 log, Log with any base
+### Logarithmic operations:
+Natural log, Base-10 log, Log with any base
 
-Exponential function 
+### Exponential function 
 𝑒
 𝑥
 e
@@ -56,7 +59,7 @@ Input in degrees for trigonometric functions
 
 Validates numeric input
 
-Unit Conversion
+### Unit Conversion
 
 Length: meters ↔ kilometers, kilometers ↔ miles, miles ↔ kilometers
 
@@ -134,7 +137,7 @@ Invalid input! Please enter numbers only.
 ## Goal: 
  Build a CRUD app that manages contacts (name, phone, email) using arrays or ArrayLists.
 
-## 🏃 Run Instructions
+##  Run Instructions
 ```bash
 javac Crud_operations.java
 java Crud_operations
