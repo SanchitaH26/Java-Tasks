@@ -1,7 +1,7 @@
 
 ---
 
-### 4. **Intermediate/README.md**
+### **Intermediate/README.md**
 ```markdown
 # Intermediate Tasks 
 
