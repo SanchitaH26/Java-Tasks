@@ -23,13 +23,13 @@ java ChatClientGUI
 ```
 ### **Features**
 
-Group Chat:
+1. Group Chat:
 
 All connected users can chat together in a shared room (All).
 
 Messages include timestamps and usernames.
 
-Private Chat (1:1 Messaging):
+2. Private Chat (1:1 Messaging):
 
 Send direct messages to specific users using /msg username message.
 
@@ -37,7 +37,7 @@ Private chats are stored separately from group chat history.
 
 Unread message counts appear next to usernames in the user list until the chat is opened.
 
-User List Management:
+3. User List Management:
 
 Real-time display of all connected users.
 
@@ -45,7 +45,7 @@ Updates dynamically when users join/leave.
 
 “All” entry always represents the group chat.
 
-File Sharing:
+4. File Sharing:
 
 Send files to all connected users.
 
@@ -53,23 +53,23 @@ Files are transferred via sockets and saved locally as received_<filename>.
 
 Transfer progress is automatic — no manual extraction needed.
 
-Chat History:
+5. Chat History:
 
 Group chat and each private chat keep their own history.
 
 Switching between chats displays the relevant history.
 
-Notifications:
+6. Notifications:
 
 Join messages (username joined) and disconnects (username disconnected).
 
 Unread counts shown beside usernames (e.g., Alice (2)).
 
-Timestamps:
+7. Timestamps:
 
 Every message and file transfer is timestamped ([HH:mm:ss]).
 
-Cross-Platform GUI:
+8. Cross-Platform GUI:
 
 Built with Swing (JFrame, JList, JTextArea).
 
